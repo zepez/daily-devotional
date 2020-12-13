@@ -26,7 +26,7 @@ npm install
 ```
 
 
-Start the development server: 
+Run the script once: 
 ```bash
 node index.js
 ```
